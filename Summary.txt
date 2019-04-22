@@ -1,1 +1,7 @@
-
+During this task i've learned how to create an issue and how to work with this. 
+In this part of work i used labels, milestones, assignees and comments to do it well.
+Also i've trained my skills in work with projects on GitHub, including using automated kanban and no-automated template.
+Also in commits and pull requests i used 'magic' words to close issues.
+To sum up, i must say it was really interesting and useful task.
+Thanks to Kate for colaboration :)
+- Volodymyr.
